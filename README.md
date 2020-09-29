@@ -1,2 +1,4 @@
 # Simple-food-recognition-deep-learning-
-food recognition deep learning  using minimum number of dataset to train deep learning algorithm and using tkinter testing a random images 
+In this Code i Used few Member of Images only . why because i need to build a h5 model to predict  a random images using modile Phone camera. For verification Purpose i used a tkinter and test my model .
+
+I am using a Anaconda Navigator 
